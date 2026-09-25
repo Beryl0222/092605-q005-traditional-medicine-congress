@@ -1,0 +1,9 @@
+[project]
+name = "traditional-medicine-congress"
+version = "0.1.0"
+description = "传统医药大会提案审议的服务端基础"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
